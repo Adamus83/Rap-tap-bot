@@ -2,7 +2,7 @@ import os
 import asyncio
 from pyrogram import Client, filters
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN = 8611339445:AAEaohbwsnAJljAjCjeg3xJhUU0JZNAz1_A
 
 if not BOT_TOKEN:
     print("ERROR: BOT_TOKEN tidak ditemukan!")
